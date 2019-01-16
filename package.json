@@ -1,0 +1,13 @@
+{
+  "name": "ruetueta",
+  "version": "0.0.1",
+  "author": "Thorben Dittmar <roikiermedia@users.noreply.github.com>",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev content",
+    "build": "vuepress build content"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.32"
+  }
+}
