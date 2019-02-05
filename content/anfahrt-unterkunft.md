@@ -1,6 +1,12 @@
 # Anfahrt & Unterkunft
 
 ## Anfahrt
+Zwischen Hamburg und Bremen, in der Nähe von Zeven, liegt das Kliemannsland in einem kleinen Dorf namens Rüspel bei Elsdorf. Viele Orte, aber gar nicht schwer zu finden. Einfach über die A1 braten, dabei das Lenkrad gut festhalten, bei der Ausfahrt 48 (Elsdorf) den Blinker setzen, rein in den Kreisverkehr und so lange im Kreis fahren, bis du das Schild "Kliemannsland Cafe" siehst. Dem musst du nur noch folgen und schon biste da.  
+Wer sich lieber auf's Navi verlassen möchte, anstatt eine kleine Schnitzeljagd zu erleben, der kann das natürlich auch tun:  
+
+Kliemannsland  
+Eichenstraße 14  
+27404 Elsdorf/Rüspel 
 
 ## Unterkunft
 Wenn Kaffee / Energydrink / Cola nicht mehr funktioniert, dir der Lötkolben aus der Hand fällt oder die Finger nur noch Quark in die Tastatur hämmern, dann brauchst du 'ne Mütze Schlaf. Wir haben da folgende Möglichkeiten klargemacht:   
