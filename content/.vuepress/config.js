@@ -8,7 +8,6 @@ module.exports = {
     }
   },
   dest: "./docs",
-  base: "/ruetueta-web/",
   markdown: {
     anchor: { permalink: false }
   }
