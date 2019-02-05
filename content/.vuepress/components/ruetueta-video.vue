@@ -1,7 +1,7 @@
 <template>
   <section @click="clicked = true">
-    <div class="placeholder">
-      <img v-if="!clicked" class="icon" src="../../assets/youtube.svg">
+    <div v-if="!clicked" class="placeholder">
+      <img class="icon" src="../../assets/youtube.svg">
     </div>
     <iframe v-if="clicked" src="https://www.youtube-nocookie.com/embed/TijSQYZoRUU" frameborder="0" allowfullscreen></iframe>
   </section>
@@ -30,15 +30,16 @@ section {
   display: flex;
   justify-content: center;
   align-content: center;
+
+  width: 100%;
 }
 .icon {
   width: 25%;
   height: auto;
-  filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.1));
+  filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.5));
 }
 iframe, .placeholder {
   width: 100%;
-  height: 200px;
 
   border-radius: var(--border-radius);
 }
