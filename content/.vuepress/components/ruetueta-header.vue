@@ -28,8 +28,8 @@ figure {
   justify-content: center;
   align-items: center;
 
-  min-height: 35vh;
-  padding-top: 24px;
+  padding-top: 52px;
+  padding-bottom: 24px;
   margin: 0;
 }
 .logo {
@@ -42,6 +42,19 @@ figure {
   cursor: pointer;
   filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.25));
   opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+@media (max-width: 700px) {
+  .logo {
+    width: 95vw;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 420px) {
+  .logo {
+    width: 90vw;
+    opacity: 1;
+  }
 }
 </style>
 
