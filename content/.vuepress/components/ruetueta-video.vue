@@ -22,6 +22,8 @@ section {
   justify-content: center;
   align-content: center;
 
+  min-height: 220px;
+
   background-image: url('../../assets/video-thumb.jpg');
   background-size: cover;
   cursor: pointer;
