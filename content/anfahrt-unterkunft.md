@@ -25,7 +25,7 @@ Das Landen auf dem Campground ist nur kleinen Dronen gestattet.
 
 
 ## Unterkunft
-Wenn Kaffee / Energydrink / Cola nicht mehr funktioniert, dir der Lötkolben aus der Hand fällt oder die Finger nur noch Quark in die Tastatur hämmern, dann brauchst du 'ne Mütze Schlaf. Wir haben da folgende Möglichkeiten klargemacht:   
+Wenn Kaffee & Cola nicht mehr funktioniert, dir der Lötkolben aus der Hand fällt oder die Finger nur noch Quark in die Tastatur hämmern, dann brauchst du eine Mütze Schlaf. Wir haben da folgende Möglichkeiten:   
 - Bring dein Zelt / Camper mit und schlaf auf der Wiese
 - Schlafen in der Turnhalle des Sportvereins (max. 50 Plätze, kostet 5 Euro extra)
 - Hotels in der Nähe (ab 45 Euro pro Person/Nacht)
