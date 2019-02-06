@@ -1,12 +1,28 @@
 # Anfahrt & Unterkunft
 
 ## Anfahrt
-Zwischen Hamburg und Bremen, in der Nähe von Zeven, liegt das Kliemannsland in einem kleinen Dorf namens Rüspel bei Elsdorf. Viele Orte, aber gar nicht schwer zu finden. Einfach über die A1 braten, dabei das Lenkrad gut festhalten, bei der Ausfahrt 48 (Elsdorf) den Blinker setzen, rein in den Kreisverkehr und so lange im Kreis fahren, bis du das Schild "Kliemannsland Cafe" siehst. Dem musst du nur noch folgen und schon biste da.  
-Wer sich lieber auf's Navi verlassen möchte, anstatt eine kleine Schnitzeljagd zu erleben, der kann das natürlich auch tun:  
-
+Die 42. Rüspeler Tüfteltage finden statt im   
+   
 Kliemannsland  
 Eichenstraße 14  
 27404 Elsdorf/Rüspel 
+
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.394663207931446%2C53.27247378884649%2C9.397855036659166%2C53.273702426408796&amp;layer=mapnik&amp;marker=53.27308811204167%2C9.396259122295305" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.27309&amp;mlon=9.39626#map=19/53.27309/9.39626">Größere Karte anzeigen</a></small>
+
+### Mit dem Auto
+Das Kliemannsland liegt in Rüspel, nahe Zeven, zwischen Hamburg und Bremen. Am schnellsten zu erreichen über die A1, Ausfahrt 48 (Elsdorf). Dort im Kreisverkehr sollte bereits das kleine Schild "Kliemannsland Cafe" euch in die richtige Richtung lotsen.
+
+### Mitfahrgelegenheiten
+Du suchst eine Mitfahrgelegenheit? Super, denn das ist besser für die Umwelt und spart Geld. Gesuche und Angebote könnt ihr [in unserem MFG-Pad finden](https://md.ctfl.space/rütüta-mfg?both).
+
+### Mit Bus und Bahn
+Wir empfehlen die Anreise zum Bahnhof in Scheeßel. Von dort aus versuchen wir wieder ein Shuttle einzurichten. Dazu zu einem späterem Zeitpunkt mehr.   
+Bahntickets könne auch über das [Veranstaltungsportal des CCC](http://bahn.events.ccc.de/) bezogen werden. Bitte beachte das diese Tickets nur mit Vorlage einer Eintrittskarte gütlig sind.
+
+### Mit dem Flugzeug
+Die nächsten größeren Flughäfen befinden sich in Hamburg und Bremen.   
+Das Landen auf dem Campground ist nur kleinen Dronen gestattet.
+
 
 ## Unterkunft
 Wenn Kaffee / Energydrink / Cola nicht mehr funktioniert, dir der Lötkolben aus der Hand fällt oder die Finger nur noch Quark in die Tastatur hämmern, dann brauchst du 'ne Mütze Schlaf. Wir haben da folgende Möglichkeiten klargemacht:   
