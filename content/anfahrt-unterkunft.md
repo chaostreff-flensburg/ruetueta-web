@@ -34,7 +34,11 @@ Folgende Hotels sind in fünf Minuten mit dem Auto erreichbar:
 - Gästehof Schnabel: Einzelzimmer / Dusche / WC - 45 Euro pro Nacht
 - Elsdorfer Hof: Doppelzimmer - ab 59 Euro pro Nacht (30 p.P.)
 
-Gebt bei der Reservierung bitte an, dass ihr das Wochenende im Kliemannsland verbringt.
+### Camping
+Du kannst mit deinem Zelt, Wohnwagen oder Wohnmobil kostenlos auf dem Hof campen. Beim Kauf eines Tickets kannst du angeben wo du schläfst. So können wir den Campground besser planen. Duschen stehen allen Campern in der Turnhalle zur Verfügung. Die Toiletten im Gebäude sind die ganze Nacht geöffnet.
+
+### Schlafen in der Turnhalle
+Mit einem zusätzlichen Turnhallenticket kannst du direkt gegenüber vom Kliemannsland übernachten. Duschen und WCs sind vorhanden. Wir empfehlen dir eine Isomatte oder Luftmatratze und einen Schlafsack mitzubringen.
 
 
 ## Essen und Trinken
