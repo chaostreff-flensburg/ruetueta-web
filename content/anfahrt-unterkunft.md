@@ -1,7 +1,7 @@
 # Anfahrt & Unterkunft
 
 ## Anfahrt
-Die 42. Rüspeler Tüfteltage finden statt im   
+Die 2. 23. Rüspeler Tüfteltage finden statt im   
    
 Kliemannsland  
 Eichenstraße 14  
