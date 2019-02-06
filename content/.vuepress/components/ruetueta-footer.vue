@@ -26,9 +26,6 @@ section {
 
   font-size: 14px;
 }
-section > * {
-  margin: 0 2px;
-}
 a {
   text-decoration: none;
 }
