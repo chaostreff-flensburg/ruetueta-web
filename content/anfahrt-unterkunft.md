@@ -36,5 +36,6 @@ Folgende Hotels sind in fünf Minuten mit dem Auto erreichbar:
 
 Gebt bei der Reservierung bitte an, dass ihr das Wochenende im Kliemannsland verbringt.
 
-## Essen und Trinken
 
+## Essen und Trinken
+Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind im Ticket inbegriffen. Beim Kauf eines Tickets kannst du deine Essenspräferenzen angeben. Für Alle denen Wasser nicht genügt bieten wir gegen Spende auch Mate, verschiedene Limos und kleine Snacks an.
