@@ -13,7 +13,9 @@ Und? Was wirst du erfinden?
 # Willkomen bei den 42. Rüspeler Tüfteltage!
 
 Der Chaostreff Flensburg und die Kliemannsland IT-Crew laden erneut zum Hackathon auf Norddeutschlands frickeligsten Bauernhof ein:  
+   
 Tüfteln, Hacken, Schnacken!   
+   
 Drei Tage lang könnt ihr, über den ganzen Hof verteilt, das platte Land durchdigitalisieren, an eurer Weltherrschaftsmaschine basteln, oder mit anderen ein kleines Projekt über das Wochenende starten. Wir begrüßen alle Hackerprofis und Makerkoryphäen, aber auch alle Neugierigen und Weltverbesserer der Zukunft. Keine Sorge, trau dich! Wir bieten euch Inspirationen für einfache Projekte und kleine Sessions um mal einfach etwas Neues zu probieren.   
 Gemeinsam brechen wir aus der Realität aus, hacken, essen und pennen alle zusammen auf dem Hof. Für Camper und Zelte ist genügend Platz. Außerdem haben wir sogar eine Turnhalle zum Nächtigen. Alles inklusive der tollen Gerichte und Snacks unserer Küchencrew.   
 Wir freuen uns schon darauf dich mit einem trockenen "Moin." begrüßen zu dürfen.   
