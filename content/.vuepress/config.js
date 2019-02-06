@@ -9,6 +9,9 @@ module.exports = {
   },
   dest: "./docs",
   markdown: {
-    anchor: { permalink: false }
+    anchor: { permalink: false },
+    extendMarkdown: md => {
+      md.set({ breaks: true })
+    }
   }
 }
