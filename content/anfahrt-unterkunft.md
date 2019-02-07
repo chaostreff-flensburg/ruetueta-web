@@ -17,7 +17,6 @@ Du suchst eine Mitfahrgelegenheit? Super, denn das ist besser für die Umwelt un
 
 ### Mit Bus und Bahn
 Wir empfehlen die Anreise zum Bahnhof in Scheeßel. Von dort aus versuchen wir wieder ein Shuttle einzurichten. Dazu zu einem späterem Zeitpunkt mehr.   
-Bahntickets könne auch über das [Veranstaltungsportal des CCC](http://bahn.events.ccc.de/) bezogen werden. Bitte beachte das diese Tickets nur mit Vorlage einer Eintrittskarte gütlig sind.
 
 ### Mit dem Flugzeug
 Die nächsten größeren Flughäfen befinden sich in Hamburg und Bremen.   
@@ -43,3 +42,4 @@ Mit einem zusätzlichen Turnhallenticket kannst du direkt gegenüber vom Klieman
 
 ## Essen und Trinken
 Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind im Ticket inbegriffen. Beim Kauf eines Tickets kannst du deine Essenspräferenzen angeben. Für Alle denen Wasser nicht genügt bieten wir gegen Spende auch Mate, verschiedene Limos und kleine Snacks an.
+Bringe dir bitte selber ein Set Geschirr mit. So müssen wir kein Einwegbesteck nutzen und schohnen damit di Umwelt.
