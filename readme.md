@@ -1,5 +1,7 @@
 # ruetueta-web
 
+[![Build Status](https://drone.ctfl.space/api/badges/chaostreff-flensburg/ruetueta-web/status.svg)](https://drone.ctfl.space/chaostreff-flensburg/ruetueta-web)
+
 <!-- ## Development
 
 Pushing to master is restricted. Please work in a `feature/` or `bug/` branch and create a pull request. Merging requires the CI passing, an approved review and the branch being up to date. -->
