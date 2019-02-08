@@ -28,7 +28,7 @@ var s = function(sketch) {
     "#ffffff"
   ];
 
-  var runner = [];
+  var runners = [];
   var logo;
 
   var logoImg;
@@ -50,6 +50,11 @@ var s = function(sketch) {
     if (sketch.frameCount % 30 === 0) {
       addRandomEnergy();
     }
+    if (sketch.frameCount % 60 === 0) {
+      addRunner()
+    }
+
+    moveRunners()
     energyLogo()
 
     spreadEnergy();
@@ -83,7 +88,7 @@ var s = function(sketch) {
     increaseEnergy(
       Math.floor(sketch.mouseX / 10),
       Math.floor(sketch.mouseY / 10),
-      sketch.random(colors.length, colors.length)
+      colors.length
     );
   };
 
@@ -197,7 +202,63 @@ var s = function(sketch) {
     );
   }
 
-  function addRunner() {}
+  function addRunner() {
+    let dir = Math.floor(sketch.random(0,4));
+    let x, y;
+
+    // set starting point on edge depending on direction
+    switch (dir) {
+      case 0:
+        x = Math.floor(sketch.random(0, grid.length - 1));
+        y = grid[0].length - 1;
+        break;
+      case 1:
+        x = 0;
+        y = Math.floor(sketch.random(0, grid[0].length - 1));
+        break;
+      case 2:
+        x = Math.floor(sketch.random(0, grid.length - 1));
+        y = 0;
+        break;
+      case 3:
+        x = grid.length - 1;
+        y = Math.floor(sketch.random(0, grid[0].length - 1));
+        break;
+    }
+
+    runners.push({x, y, dir})
+  }
+
+  function moveRunners() {
+    runners.forEach((runner, index) => {
+      increaseEnergy(
+        runner.x,
+        runner.y,
+        colors.length
+      )
+
+      // move in direction
+      switch (runner.dir) {
+        case 0:
+          runner.y--
+          break;
+        case 1:
+          runner.x++
+          break;
+        case 2:
+          runner.y++
+          break;
+        case 3:
+          runner.x--
+          break;
+      }
+
+      // remove if end is reached
+      if (runner.x < 0 || runner.x >= grid.length || runner.y < 0 || runner.y >= grid[0].length) {
+        runners.splice(index, 1);
+      }
+    })
+  }
 
   function energyLogo() {
     let rect = logo.getBoundingClientRect();
