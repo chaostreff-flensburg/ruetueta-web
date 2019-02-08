@@ -44,6 +44,9 @@ Nein, du musst dein eigenes mitbringen.
 ### Kostet Camping auch etwas?
 Nein.
 
+### Gibt es Strom/Wasser/Internet auf dem Campground?
+Eher nein, nein und eventuell WLAN. Generatoren für Strom sind auf dem Campground leider auch nicht erlaubt. Du möchtest das Wochenende ja aber auch auf dem Event verbringen und nicht im Wohnwagen.
+
 ### Warum kostet das schlafen in der Turnhalle Geld?
 Wir mieten die Halle vom lokalen Sportverein.
 
