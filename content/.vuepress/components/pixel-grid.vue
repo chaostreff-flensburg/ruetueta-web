@@ -98,7 +98,6 @@ var s = function(sketch) {
 
       for (let y = 0; y < gridHeight; y++) {
         grid[x][y] = 0;
-        // grid[x][y] = sketch.random(0, colors.length);
       }
     }
 
