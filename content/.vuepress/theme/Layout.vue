@@ -19,8 +19,6 @@
 </template>
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,400i,700,700i');
-
 html, body {
   --white: #fafafa;
   --black: #222;
@@ -131,5 +129,44 @@ main, .card {
   main, .card {
     padding: 12px 22px;
   }
+}
+</style>
+
+<style>
+/* space-mono-regular - latin */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 400;
+  src:
+       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* space-mono-italic - latin */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: italic;
+  font-weight: 400;
+  src:
+       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* space-mono-700 - latin */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 700;
+  src:
+       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* space-mono-700italic - latin */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: italic;
+  font-weight: 700;
+  src:
+       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/space-mono-v4-latin/space-mono-v4-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 </style>
