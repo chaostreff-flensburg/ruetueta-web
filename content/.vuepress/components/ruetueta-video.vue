@@ -1,7 +1,7 @@
 <template>
   <section @click="clicked = true">
     <div v-if="!clicked" class="placeholder">
-      <img class="icon" src="../../assets/youtube.svg">
+      <img class="icon" src="../../assets/youtube.svg" alt="Das Video zu den ersten 23. RüTüTa">
     </div>
     <iframe v-if="clicked" src="https://www.youtube-nocookie.com/embed/TijSQYZoRUU" frameborder="0" allowfullscreen></iframe>
   </section>
