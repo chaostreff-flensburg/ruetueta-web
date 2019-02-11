@@ -6,6 +6,8 @@
 import p5 from "p5";
 
 var s = function(sketch) {
+  sketch.disableFriendlyErrors = true;
+
   var grid = [];
   var gridBuffer = [];
 
