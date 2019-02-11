@@ -1,5 +1,5 @@
 module.exports = {
-  title: "2. 23. Rüspeler Tüfteltage",
+  title: "Die zweiten 23. Rüspeler Tüfteltage",
   description: "Das Frickelfestival im Kliemannsland. 17.-19. Mai 2019",
   locales: {
     // Vuepress uses the default lang-attribute 'en-US'

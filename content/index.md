@@ -10,7 +10,7 @@ Und? Was wirst du erfinden?
 :::
 
 
-# Willkomen bei den 2. 23. Rüspeler Tüfteltage!
+# Willkomen bei den zweiten 23. Rüspeler Tüfteltage!
 
 Der Chaostreff Flensburg und die Kliemannsland IT-Crew laden erneut zum Hackathon auf Norddeutschlands frickeligsten Bauernhof ein:  
    
