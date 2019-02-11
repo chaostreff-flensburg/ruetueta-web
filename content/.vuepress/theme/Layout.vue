@@ -62,6 +62,19 @@ a {
   font-weight: 700;
 }
 
+table {
+  width: 100%;
+}
+th, td {
+  padding: 8px;
+}
+th {
+  border-bottom: 1px solid var(--black);
+}
+tr:nth-of-type(even) {
+  background-color: var(--off-white)
+}
+
 .layout {
   display: grid;
   grid-template-columns: 1fr repeat(2, minmax(100px, calc(var(--max-site-width) / 2))) 1fr;
