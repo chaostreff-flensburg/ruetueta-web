@@ -65,9 +65,6 @@ Ja, ihr könnt in der Turnhalle duschen. Das gilt auch für alle Camper.
 ### Wird Fynn da seien? Und Figge? Und Brian? Und…
 Die RüTüTa sind nicht nur einfach ein Meet & Greet, sondern ein kleines Communityevent im Kliemannsland. Wenn du eigentlich nur die Kliemannsland-Crew treffen möchtest und am Rest nicht wirklich interessiert bist, schau lieber im Café vorbei oder besuche eines der anderen Events auf dem Hof.
 
-### 2. 23.? Wieso nicht 24? Das wie vielte Event ist das?
-Die 2. 23.!
-
 ### Was ist der Chaostreff? Und was machen die Flensburger in Rüspel?
 Chaostreffs sind Gruppen die sich zum Chaos Computer Club zugehörig fühlen. Der Chaostreff Flensburg e.V. ist ein gemeinnütziger Verein der genau so eine Gruppe ist. Wir betreiben in der Flensburger Nordstadt einen Hackerspace in dem wir an Projekten basteln, uns treffen und austauschen.   
 Zum Kliemannsland gibt es schon eine längere Verbindung. Von Anfang an haben einige unserer Mitglieder das Netzwerk und den Hof mit aufgebaut. So haben wir auch die IT-Crew kennengelernt und sind auch ein Teil davon geworden. Beim 34. Chaos Communication Congress schlossen wir dann den Plan doch einfach mal ein Event zusammen zu machen. Der Rest ist Geschichte.
