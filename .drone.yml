@@ -15,5 +15,5 @@ steps:
     username: root
     key:
       from_secret: ssh-key
-    target: /root/ruetueta-server/dist
+    target: /root/ruetueta-server
     source: dist/*
