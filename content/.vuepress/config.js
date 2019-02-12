@@ -18,5 +18,6 @@ module.exports = {
     extendMarkdown: md => {
       md.set({ breaks: true });
     }
-  }
+  },
+  dest: "./dist"
 };

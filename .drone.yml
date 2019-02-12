@@ -16,4 +16,4 @@ steps:
     key:
       from_secret: ssh-key
     target: /root/ruetueta-server/dist
-    source: content/.vuepress/dist
+    source: dist/*
