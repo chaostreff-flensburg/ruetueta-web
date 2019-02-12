@@ -17,3 +17,8 @@ steps:
       from_secret: ssh-key
     target: /root/ruetueta-server
     source: dist/*
+  when:
+    branch:
+    - master
+    event:
+    - push
