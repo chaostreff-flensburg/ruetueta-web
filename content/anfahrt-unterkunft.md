@@ -20,7 +20,7 @@ Wir empfehlen die Anreise zum Bahnhof in Scheeßel. Von dort aus versuchen wir w
 
 ### Mit dem Flugzeug
 Die nächsten größeren Flughäfen befinden sich in Hamburg und Bremen.   
-Das Landen auf dem Campground ist nur kleinen Dronen gestattet.
+Das Landen auf dem Campground ist nur kleinen Drohnen gestattet.
 
 
 ## Unterkunft
@@ -42,4 +42,4 @@ Mit einem zusätzlichen Turnhallenticket kannst du direkt gegenüber vom Klieman
 
 ## Essen und Trinken
 Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind im Ticket inbegriffen. Beim Kauf eines Tickets kannst du deine Essenspräferenzen angeben. Für Alle denen Wasser nicht genügt bieten wir gegen Spende auch Mate, verschiedene Limos und kleine Snacks an.
-Bringe dir bitte selber ein Set Geschirr mit. So müssen wir kein Einwegbesteck nutzen und schohnen damit di Umwelt.
+Bringe dir bitte selber ein Set Geschirr mit. So müssen wir kein Einwegbesteck nutzen und schonen damit die Umwelt.

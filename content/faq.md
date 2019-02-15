@@ -6,7 +6,7 @@ Einige Fragen stellst du dir nicht alleine, sondern tauchen immer wieder auf. Di
 
 ## Event
 
-### Ich kann nicht programmieren/hacken/schweissen. Kann ich trotzdem kommen?
+### Ich kann nicht programmieren/hacken/schweißen. Kann ich trotzdem kommen?
 **Ja!**   
 Wir bringen eine Menge einsteigerfreundliche Projekte mit und versuchen Teams zu bilden in denen Alle von einander lernen können. Da kannst auch du den Nerds etwas beibringen und zB künstlerisch tätig werden oder dich wagen etwas Neues auszuprobieren.
 
@@ -24,10 +24,10 @@ Im Kliemannsland wird die gleichnamige Webserie produziert. Die rechtlichen Frag
 ## Tickets
 
 ### Was ist im Ticket enthalten? Gibt es Essen und Trinken?
-Jeder Teilnehmer braucht ein Ticket. Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind inbegriffen. Wasser kommt aus der Leitung, wir haben aber auch Mate, Limo und Snacks gegen eine kleine Spende. Camping auf dem Gelände ist für Teilnehmer kostenlos möglich, das übernachten in der Turnhalle bedarf eines Turnhallen-Tickets.
+Jeder Teilnehmer braucht ein Ticket. Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind inbegriffen. Wasser kommt aus der Leitung, wir haben aber auch Mate, Limo und Snacks gegen eine kleine Spende. Camping auf dem Gelände ist für Teilnehmer kostenlos möglich, das Übernachten in der Turnhalle bedarf eines Turnhallen-Tickets.
 
 ### Warum kostet das Ticket so viel?
-So ein Event kostet viel Geld. Material, Lebensmittel, Miete, Nebenkosten und vieles mehr wollen bezahlt werden. Doch keiner von uns steckt sich die Taschen voll. Das Event wird von freiwilligen gestämmt und alles Geld das am Ende vielleicht über bleibt geht an unseren gemeinnützigen Verein um viele weitere Events und Workshops zu finanzieren.
+So ein Event kostet viel Geld. Material, Lebensmittel, Miete, Nebenkosten und vieles mehr wollen bezahlt werden. Doch keiner von uns steckt sich die Taschen voll. Das Event wird von freiwilligen gestemmt und alles Geld das am Ende vielleicht über bleibt geht an unseren gemeinnützigen Verein um viele weitere Events und Workshops zu finanzieren.
 
 ### Gibt es einen Schüler/Studenten/Azubi/Sonstigen-Rabatt?
 Nein, leider nicht. Wenn du dir das Ticket wirklich nicht leisten kannst, aber glaubst das du bei den RüTüTa genau richtig bist, schreibe uns eine kurze Mail. Wir schauen dann gemeinsam ob wir da nicht eine Lösung finden.
