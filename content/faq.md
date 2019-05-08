@@ -62,6 +62,15 @@ Ja, ihr könnt in der Turnhalle duschen. Das gilt auch für alle Camper.
 
 ## Sonstiges
 
+### Gibt es Mitfahrgelegenheiten?
+Klar! Hier haben wir ein Dokument mit "ich suche:" und "ich biete:" 
+[#RüTüTa Mitfahrgelegenheiten](https://md.ctfl.space/r%C3%BCt%C3%BCta-mfg?both)
+
+### Gibt es einen Chat um sich aus zu tauschen?
+Da es sehr viele Plattformen gibt haben wir bis jetzt nur zwei. Ihr dürft aber gern weitere auf machen und uns einen Link schicken. Dann tragen wir diesen hier ein.
+- Telegram: [https://t.me/ruetueta23](https://t.me/ruetueta23)
+- IRC: [https://webirc.hackint.org/#irc://irc.hackint.org/#ruetueta](https://webirc.hackint.org/#irc://irc.hackint.org/#ruetueta)
+
 ### Wird Fynn da seien? Und Figge? Und Brian? Und…
 Die RüTüTa sind nicht nur einfach ein Meet & Greet, sondern ein kleines Communityevent im Kliemannsland. Wenn du eigentlich nur die Kliemannsland-Crew treffen möchtest und am Rest nicht wirklich interessiert bist, schau lieber im Café vorbei oder besuche eines der anderen Events auf dem Hof.
 
