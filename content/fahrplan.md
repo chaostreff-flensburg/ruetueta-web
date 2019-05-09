@@ -28,4 +28,5 @@ Und schaut hier von Zeit zu Zeit wieder rein. Umso näher wir dem Event kommen, 
 | 16:00 | Ende der RüTüTa | Saal |
 
 ## Eine Session einreichen
-Dazu findest du hier bald mehr.
+Du hast eine Idee für eine Session? Willst einen Workshop veranstalten, oder alle auf deine tolle Aktion hinweisen? Dann trage dich in de Fahrplan ein!
+Bearbeite dafür einfach [das Fahrplan Dokument auf GitHub](https://github.com/chaostreff-flensburg/ruetueta-web/edit/master/content/fahrplan.md) und stelle einen Pull Request. Falls du dir nicht sicher bist welcher Ort oder welche Zeit richtig für deine Session ist helfen wir dir gerne. Stelle einfach einen Request.
