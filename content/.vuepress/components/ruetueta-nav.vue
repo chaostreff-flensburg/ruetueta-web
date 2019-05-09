@@ -1,10 +1,10 @@
 <template>
   <section>
     <nav>
-      <router-link to="/tickets.html" class="nav-link">Tickets</router-link>
-      <router-link to="/fahrplan.html" class="nav-link">Fahrplan</router-link>
-      <router-link to="/anfahrt-unterkunft.html" class="nav-link">Anfahrt & Unterkunft</router-link>
-      <router-link to="/faq.html" class="nav-link">F.A.Q.</router-link>
+      <router-link to="/tickets" class="nav-link">Tickets</router-link>
+      <router-link to="/fahrplan" class="nav-link">Fahrplan</router-link>
+      <router-link to="/anfahrt-unterkunft" class="nav-link">Anfahrt & Unterkunft</router-link>
+      <router-link to="/faq" class="nav-link">F.A.Q.</router-link>
     </nav>
   </section>
 </template>
