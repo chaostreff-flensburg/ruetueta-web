@@ -8,22 +8,24 @@ Und schaut hier von Zeit zu Zeit wieder rein. Umso näher wir dem Event kommen, 
 | Wann? | Was? | Wo? |
 |:---|:---:|:---:|
 | ab 14:00 | Einlass  | Saal |
-| 18:00 | Moin! - Die Eröffnung der zweiten 23. Rüspeler Tüfteltage.  | Saal |
-| ab 20:00 | Abendessen  | TBA |
+| ab 18:00 | Abendessen  | TBA |
+| 20:00 | Moin! - Die Eröffnung der zweiten 23. Rüspeler Tüfteltage.  | Saal |
 
 ## Samstag
 
 | Wann? | Was? | Wo? |
 |:---|:---:|:---:|
 | ab 10:00 | Frühstück  | TBA |
-| ab 20:00 | Abendessen  | TBA |
+| ab 17:30 | Abendessen  | TBA |
+| 00:00 | Die große Projektvorstellung - Was hast du schon gebastelt? | Saal |
+| ab 00:30 | Lass scheppern Disse! - Das Tanzbein schwingen mit Maritim & Liebevoll  | Marktställe |
 
 ## Sonntag
 
 | Wann? | Was? | Wo? |
 |:---|:---:|:---:|
 | ab 10:00 | Frühstück  | TBA |
-| 16:00 | In Rüspel sagt man tschüss! - Das Closing. | Saal |
+| 16:00 | Ende der RüTüTa | Saal |
 
 ## Eine Session einreichen
 Dazu findest du hier bald mehr.
