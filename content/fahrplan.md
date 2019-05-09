@@ -3,6 +3,8 @@
 Bei den RüTüTa gibt es nicht einfach ein Programm, es gibt einen Fahrplan. Wir bringen euch Sessions und Workshops mit, wollen aber auch von euch lernen. Also werde Teil der Veranstaltung und reiche deine Session ein! 
 Und schaut hier von Zeit zu Zeit wieder rein. Umso näher wir dem Event kommen, umso mehr Sessions findet ihr hier.
 
+[[toc]]
+
 ## Freitag
 
 | Wann? | Was? | Wo? |
