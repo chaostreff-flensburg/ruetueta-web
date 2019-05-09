@@ -27,8 +27,7 @@ Und schaut hier von Zeit zu Zeit wieder rein. Umso näher wir dem Event kommen, 
 | Wann? | Was? | Wo? |
 |:---|:---:|:---:|
 | ab 10:00 | Frühstück  | TBA |
-| 14:00 | Ende der RüTüTa | Saal |
-| 14:01 | Abbauen - Jede helfende Hand gebraucht werden | Saal |
+| ab 14:00 | Abbau - Jede helfende Hand wird gebraucht | Überall |
 
 ## Eine Session einreichen
 Du hast eine Idee für eine Session? Willst einen Workshop veranstalten, oder alle auf deine tolle Aktion hinweisen? Dann trage dich in de Fahrplan ein!
