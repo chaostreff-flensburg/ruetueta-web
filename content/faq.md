@@ -13,6 +13,7 @@ Wir bringen eine Menge einsteigerfreundliche Projekte mit und versuchen Teams zu
 ### Was sollte ich mitbringen?
 Wenn du bereits ein Projekt zum basteln hast, bring es gerne mit. Ansonsten empfehlen wir einen Laptop, Dinge zum dran frickeln, die Kulti-Tasche mit Duschgel und Zahnbürste und alles was ihr zum Schlafen braucht.   
 Oh, und ein Handtuch. Man sollte immer wissen wo sein Handtuch ist.
+Außerdem solltest du dir ein Besteck-Set mitnehmen. Besonders einen tiefen Teller oder Schüssel dabei zu haben wird vom Vorteil sein. Aber Natürlich auch Messer, Gabel und Löffel.
 
 ### Warum muss ich volljährig seien um mitzumachen?
 Das hat mit der Versicherung der Veranstaltung zu tun und damit das auf dem Hof gefilmt wird. Da können wir leider nichts dran ändern. Auch die Begleitung eines Erwachsenen oder der "Muttizettel" reicht da nicht.
