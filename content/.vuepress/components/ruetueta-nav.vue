@@ -31,8 +31,8 @@ nav {
   flex-wrap: wrap;
 
   border-radius: var(--border-radius);
-  background-color: var(--white);
-  box-shadow: 0 4px 12px rgba(34, 34, 34, 0.25);
+  background-color: var(--background);
+  box-shadow: 0 4px 12px var(--shadow);
 }
 @media (max-width: 920px) {
   nav {
@@ -42,7 +42,7 @@ nav {
 a {
   padding: 2px 4px;
 
-  color: var(--black);
+  color: var(--foreground);
   font-size: 18px;
   font-weight: 400;
   text-align: center;
