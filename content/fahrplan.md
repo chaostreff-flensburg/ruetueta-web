@@ -8,7 +8,7 @@ Und schaut hier von Zeit zu Zeit wieder rein. Umso näher wir dem Event kommen, 
 | Wann? | Was? | Wo? |
 |:---|:---:|:---:|
 | ab 14:00 | Einlass  | Saal |
-| 18:00 | Moin! - Die Eröffnung der zweiten 23. Rüspeler Tüfteltage.  | Saal |
+| 18:00 | Moin! - Die Eröffnung der dritten 23. Rüspeler Tüfteltage.  | Saal |
 | ab 20:00 | Abendessen  | TBA |
 
 ## Samstag

@@ -6,11 +6,11 @@ isHomepage: true
 100 Nerds, ein verrückter Bauernhof und deine ausgefallenen Ideen. Vom Sprüche-Klopfer-Knopf bis zum Disketten-Orchester.   
    
 Und? Was wirst du erfinden?
-### 17.-19. Mai 2019 im Kliemannsland
+### 8.-10. Mai 2020 im Kliemannsland
 :::
 
 
-# Willkommen bei den zweiten 23. Rüspeler Tüfteltagen!
+# Willkommen bei den dritten 23. Rüspeler Tüfteltagen!
 
 Der Chaostreff Flensburg und die Kliemannsland IT-Crew laden erneut zum Hackathon auf Norddeutschlands frickeligsten Bauernhof ein:  
    
