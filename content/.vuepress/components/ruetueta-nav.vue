@@ -1,10 +1,10 @@
 <template>
   <section>
     <nav>
-      <router-link to="/tickets.html" class="nav-link">Tickets</router-link>
-      <router-link to="/fahrplan.html" class="nav-link">Fahrplan</router-link>
-      <router-link to="/anfahrt-unterkunft.html" class="nav-link">Anfahrt & Unterkunft</router-link>
-      <router-link to="/faq.html" class="nav-link">F.A.Q.</router-link>
+      <router-link to="/tickets" class="nav-link">Tickets</router-link>
+      <router-link to="/fahrplan" class="nav-link">Fahrplan</router-link>
+      <router-link to="/anfahrt-unterkunft" class="nav-link">Anfahrt & Unterkunft</router-link>
+      <router-link to="/faq" class="nav-link">F.A.Q.</router-link>
     </nav>
   </section>
 </template>
@@ -31,8 +31,8 @@ nav {
   flex-wrap: wrap;
 
   border-radius: var(--border-radius);
-  background-color: var(--white);
-  box-shadow: 0 4px 12px rgba(34, 34, 34, 0.25);
+  background-color: var(--background);
+  box-shadow: 0 4px 12px var(--shadow);
 }
 @media (max-width: 920px) {
   nav {
@@ -42,7 +42,7 @@ nav {
 a {
   padding: 2px 4px;
 
-  color: var(--black);
+  color: var(--foreground);
   font-size: 18px;
   font-weight: 400;
   text-align: center;

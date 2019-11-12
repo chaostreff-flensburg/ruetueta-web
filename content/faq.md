@@ -13,6 +13,7 @@ Wir bringen eine Menge einsteigerfreundliche Projekte mit und versuchen Teams zu
 ### Was sollte ich mitbringen?
 Wenn du bereits ein Projekt zum basteln hast, bring es gerne mit. Ansonsten empfehlen wir einen Laptop, Dinge zum dran frickeln, die Kulti-Tasche mit Duschgel und Zahnbürste und alles was ihr zum Schlafen braucht.   
 Oh, und ein Handtuch. Man sollte immer wissen wo sein Handtuch ist.
+Außerdem solltest du dir ein Besteck-Set mitnehmen. Besonders einen tiefen Teller oder Schüssel dabei zu haben wird vom Vorteil sein. Aber Natürlich auch Messer, Gabel und Löffel.
 
 ### Warum muss ich volljährig seien um mitzumachen?
 Das hat mit der Versicherung der Veranstaltung zu tun und damit das auf dem Hof gefilmt wird. Da können wir leider nichts dran ändern. Auch die Begleitung eines Erwachsenen oder der "Muttizettel" reicht da nicht.
@@ -67,9 +68,8 @@ Klar! Hier haben wir ein Dokument mit "ich suche:" und "ich biete:"
 [#RüTüTa Mitfahrgelegenheiten](https://md.ctfl.space/r%C3%BCt%C3%BCta-mfg?both)
 
 ### Gibt es einen Chat um sich aus zu tauschen?
-Da es sehr viele Plattformen gibt haben wir bis jetzt nur zwei. Ihr dürft aber gern weitere auf machen und uns einen Link schicken. Dann tragen wir diesen hier ein.
-- Telegram: [https://t.me/ruetueta23](https://t.me/ruetueta23)
-- IRC: [https://webirc.hackint.org/#irc://irc.hackint.org/#ruetueta](https://webirc.hackint.org/#irc://irc.hackint.org/#ruetueta)
+Ja dazu haben wir einen Rocketchat für veranstaltungen auf gesetzt. Dort könnt ihr euch registrieren.
+[https://chat.chaostreff-flensburg.de/home](https://chat.chaostreff-flensburg.de/home)
 
 ### Wird Fynn da seien? Und Figge? Und Brian? Und…
 Die RüTüTa sind nicht nur einfach ein Meet & Greet, sondern ein kleines Communityevent im Kliemannsland. Wenn du eigentlich nur die Kliemannsland-Crew treffen möchtest und am Rest nicht wirklich interessiert bist, schau lieber im Café vorbei oder besuche eines der anderen Events auf dem Hof.

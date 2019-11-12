@@ -18,6 +18,19 @@
   </section>
 </template>
 
+<script>
+import qs from 'qs';
+
+export default {
+  mounted() {
+    const { theme } = qs.parse(location.search.substr(1));
+    if (theme) {
+      document.documentElement.classList.add(`theme-${theme}`);
+    }
+  }
+}
+</script>
+
 <style>
 html, body {
   --white: #fafafa;
@@ -38,17 +51,28 @@ html, body {
   --pink: #FF77A8;
   --peach: #FFCCAA;
 
+  --foreground: var(--theme-foreground, var(--black));
+  --background-off: var(--theme-background-off, var(--off-white));
+  --background: var(--theme-background, var(--white));
+  --shadow: var(--theme-shadow, rgba(34, 34, 34, 0.25));
+
   --max-site-width: 900px;
   --border-radius: 3px;
-  --box-shadow: 0 4px 12px rgba(34, 34, 34, 0.25);
+  --box-shadow: 0 4px 12px var(--shadow);
 
   margin: 0;
 
-  color: var(--black);
+  color: var(--foreground);
   font-family: "Space Mono", monospace;
   line-height: 1.5;
 
-  background-color: var(--black);
+  background-color: var(--background);
+}
+
+html.theme-dark {
+  --theme-foreground: var(--white);
+  --theme-background: var(--black);
+  --theme-background-off: var(--dark-blue);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -67,10 +91,10 @@ th, td {
   padding: 8px;
 }
 th {
-  border-bottom: 1px solid var(--black);
+  border-bottom: 1px solid var(--foreground);
 }
 tr:nth-of-type(even) {
-  background-color: var(--off-white)
+  background-color: var(--background-off)
 }
 
 .layout {
@@ -122,7 +146,7 @@ main, .card {
   margin-bottom: 32px;
 
   border-radius: var(--border-radius);
-  background-color: var(--white);
+  background-color: var(--background);
   box-shadow: var(--box-shadow);
 }
 @media (max-width: 700px) {
