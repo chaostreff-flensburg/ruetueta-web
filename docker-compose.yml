@@ -1,0 +1,30 @@
+version: '3.3'
+
+services:
+  tooling:
+    container_name: ruetuetatooling
+    image: node:8.17.0-stretch
+    tty: true
+    working_dir: /app
+    volumes:
+      - ./:/app
+
+  static-server:
+    image: abiosoft/caddy:latest
+    networks:
+      - web
+    labels:
+      - "traefik.enable=true"
+      - "traefik.backend=ruetueta-static-server"
+      - "traefik.frontend.rule=Host:ruetueta.localhost,ruetueta.de,www.ruetueta.de,www.xn--rtta-0rab.de,xn--rtta-0rab.de"
+      - "traefik.docker.network=web"
+      - "traefik.port=2015"
+    volumes:
+      - ./Caddyfile:/etc/Caddyfile
+      - ./dist:/srv
+    restart: always
+
+networks:
+  web:
+    external: true
+
