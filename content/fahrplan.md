@@ -18,12 +18,9 @@ Und schaut hier von Zeit zu Zeit wieder rein. Umso näher wir dem Event kommen, 
 | Wann? | Was? | Wo? |
 |:---|:---:|:---:|
 | ab 10:00 | Frühstück  | TBA |
-| ab 16:00 | Kochen für Anfänger, Fortgeschrittene und alle die Spaß dran haben. | keine Ahnung wo die Küche ist |
+| ab 16:00 | Kochen für Anfänger, Fortgeschrittene und alle die Spaß dran haben. | Küche |
 | ab 17:30 | Abendessen  | TBA |
-| 18:30 | Führung durchs Kliemannsland mit Figge  | Saal Ausgang Küche |
 | 20:15 | Die große Projektvorstellung - Was hast du schon gebastelt? | Saal |
-| 21:00 | Der Preis ist Reis | Saal |
-| ab 00:30 | Lass scheppern Disse! - Das Tanzbein schwingen mit Maritim & Liebevoll  | Marktställe |
 
 ## Sonntag
 
@@ -31,7 +28,3 @@ Und schaut hier von Zeit zu Zeit wieder rein. Umso näher wir dem Event kommen, 
 |:---|:---:|:---:|
 | ab 10:00 | Frühstück  | TBA |
 | ab 14:00 | Abbau - Jede helfende Hand wird gebraucht | Überall |
-
-## Eine Session einreichen
-Du hast eine Idee für eine Session? Willst einen Workshop veranstalten, oder alle auf deine tolle Aktion hinweisen? Dann trage dich in de Fahrplan ein!
-Bearbeite dafür einfach [das Fahrplan Dokument auf GitHub](https://github.com/chaostreff-flensburg/ruetueta-web/edit/master/content/fahrplan.md) und stelle einen Pull Request. Falls du dir nicht sicher bist welcher Ort oder welche Zeit richtig für deine Session ist helfen wir dir gerne. Stelle einfach einen Request.
