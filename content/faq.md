@@ -21,7 +21,6 @@ Das hat mit der Versicherung der Veranstaltung zu tun und damit das auf dem Hof 
 ### Warum muss ich meine Bildrechte abgeben? Was bedeutet das?
 Im Kliemannsland wird die gleichnamige Webserie produziert. Die rechtlichen Fragen die man klären muss um jemanden zu filmen sind von Fall zu Fall unterschiedlich und schwierig. Deswegen gilt dies als Hausregel auf dem Hof. Sollte gefilmt werden, wird dir aber niemand eine Kamera in's Gesicht halten. Wir fragen alle Teilnehmer deren Projekte wir zeigen wollen und haben ein erfahrenes und freundliches Kamerateam das auch mit einem 'Nein' leben kann. Eventuell bist du aber im Hintergrund eines Videos oder Fotos zu sehen.
 
-
 ## Tickets
 
 ### Was ist im Ticket enthalten? Gibt es Essen und Trinken?
@@ -32,7 +31,6 @@ So ein Event kostet viel Geld. Material, Lebensmittel, Miete, Nebenkosten und vi
 
 ### Gibt es einen Schüler/Studenten/Azubi/Sonstigen-Rabatt?
 Nein, leider nicht. Wenn du dir das Ticket wirklich nicht leisten kannst, aber glaubst das du bei den RüTüTa genau richtig bist, schreibe uns eine kurze Mail. Wir schauen dann gemeinsam ob wir da nicht eine Lösung finden.
-
 
 ## Camping & Turnhalle
 
@@ -59,7 +57,6 @@ Eine Isomatte oder Luftmatratze und ein Schlafsack sind zu empfehlen.
 
 ### Gibt es Duschen?
 Ja, ihr könnt in der Turnhalle duschen. Das gilt auch für alle Camper.
-
 
 ## Sonstiges
 

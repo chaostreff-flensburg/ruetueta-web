@@ -22,7 +22,6 @@ Wir empfehlen die Anreise zum Bahnhof in Scheeßel. Von dort aus versuchen wir w
 Die nächsten größeren Flughäfen befinden sich in Hamburg und Bremen.   
 Das Landen auf dem Campground ist nur kleinen Drohnen gestattet.
 
-
 ## Unterkunft
 Wenn Kaffee & Cola nicht mehr funktioniert, dir der Lötkolben aus der Hand fällt oder die Finger nur noch Quark in die Tastatur hämmern, dann brauchst du eine Mütze Schlaf. Wir haben da folgende Möglichkeiten:   
 - Bring dein Zelt / Camper mit und schlaf auf der Wiese
@@ -30,15 +29,14 @@ Wenn Kaffee & Cola nicht mehr funktioniert, dir der Lötkolben aus der Hand fäl
 - Hotels in der Nähe (ab 45 Euro pro Person/Nacht)
 
 Folgende Hotels sind in fünf Minuten mit dem Auto erreichbar:
-- Gästehof Schnabel: Einzelzimmer / Dusche / WC - 45 Euro pro Nacht
-- Elsdorfer Hof: Doppelzimmer - ab 59 Euro pro Nacht (30 p.P.)
+- Gästehof Schnabel
+- Elsdorfer Hof
 
 ### Camping
 Du kannst mit deinem Zelt, Wohnwagen oder Wohnmobil kostenlos auf dem Hof campen. Beim Kauf eines Tickets kannst du angeben wo du schläfst. So können wir den Campground besser planen. Duschen stehen allen Campern in der Turnhalle zur Verfügung. Die Toiletten im Gebäude sind die ganze Nacht geöffnet.
 
 ### Schlafen in der Turnhalle
 Mit einem zusätzlichen Turnhallenticket kannst du direkt gegenüber vom Kliemannsland übernachten. Duschen und WCs sind vorhanden. Wir empfehlen dir eine Isomatte oder Luftmatratze und einen Schlafsack mitzubringen.
-
 
 ## Essen und Trinken
 Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind im Ticket inbegriffen. Beim Kauf eines Tickets kannst du deine Essenspräferenzen angeben. Für Alle denen Wasser nicht genügt bieten wir gegen Spende auch Mate, verschiedene Limos und kleine Snacks an.
