@@ -23,4 +23,4 @@ Wir freuen uns schon darauf dich mit einem trockenen "Moin." begrüßen zu dürf
 Also hol dir jetzt ein [Ticket](/tickets.html), schau dir in unserem [Fahrplan](/fahrplan.html) an was wann passiert, wirf bei Fragen doch einen Blick in die [F.A.Q.](/faq.html) und stöber auch sonst noch etwas durch unsere Seite.   
    
 Bis dann,   
-***euer Chaostreff Flensburg***
+***euer Chaostreff Flensburg & KlilaIT Crew***
