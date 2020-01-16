@@ -1,7 +1,7 @@
 # Anfahrt & Unterkunft
 
 ## Anfahrt
-Die dritten 23. Rüspeler Tüfteltage finden statt im   
+Die dritten 23. Rüspeler Tüfteltage finden hier statt:   
    
 Lüttenshoff  
 Eichenstraße 14  
@@ -24,7 +24,7 @@ Das Landen auf dem Campground ist nur kleinen Drohnen gestattet.
 
 ## Unterkunft
 Wenn Kaffee & Cola nicht mehr funktioniert, dir der Lötkolben aus der Hand fällt oder die Finger nur noch Quark in die Tastatur hämmern, dann brauchst du eine Mütze Schlaf. Wir haben da folgende Möglichkeiten:   
-- Bring dein Zelt / Camper mit und schlaf auf der Wiese
+- Bring dein Zelt oder deinen Camper mit und schlaf auf der Wiese
 - Schlafen in der Turnhalle des Sportvereins (max. 50 Plätze, kostet 5 Euro extra)
 - Hotels in der Nähe (ab 45 Euro pro Person/Nacht)
 
@@ -39,5 +39,5 @@ Du kannst mit deinem Zelt, Wohnwagen oder Wohnmobil kostenlos auf dem Hof campen
 Mit einem zusätzlichen Turnhallenticket kannst du direkt gegenüber vom Lüttenshoff übernachten. Duschen und WCs sind vorhanden. Wir empfehlen dir eine Isomatte oder Luftmatratze und einen Schlafsack mitzubringen.
 
 ## Essen und Trinken
-Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind im Ticket inbegriffen. Beim Kauf eines Tickets kannst du deine Essenspräferenzen angeben. Für Alle denen Wasser nicht genügt bieten wir gegen Spende auch Mate, verschiedene Limos und kleine Snacks an.
-Bringe dir bitte selber ein Set Geschirr mit. So müssen wir kein Einwegbesteck nutzen und schonen damit die Umwelt.
+Frühstück am Samstag & Sonntag und Abendessen am Freitag & Samstag sind im Ticket inbegriffen. Beim Kauf eines Tickets kannst du deine Essenspräferenzen angeben. Für alle denen Wasser nicht genügt bieten wir gegen Spende auch Mate, verschiedene Limos und kleine Snacks an.
+Bring dir bitte selber ein Geschirrset mit. So müssen wir kein Einwegbesteck nutzen und schonen damit die Umwelt.
