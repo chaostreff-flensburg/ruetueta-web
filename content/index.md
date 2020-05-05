@@ -21,5 +21,6 @@ Wir freuen uns über rege Beteiligung. Du kannst einfach nur zuschauen, oder zus
 ## Links
 - Twitch-Stream: [https://www.twitch.tv/ruetueta/](https://www.twitch.tv/ruetueta/)
 - Chat: [https://chat.chaostreff-flensburg.de/](https://chat.chaostreff-flensburg.de)
+- Jitsi: TBA
 - Factorio-Server: factorio.ctfl.space
 
