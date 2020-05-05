@@ -2,13 +2,6 @@
   <section class="layout">
     <ruetueta-header class="header"></ruetueta-header>
 
-    <template v-if="$page.frontmatter.isHomepage">
-      <section class="intro text card">
-        <Content slot-key="intro-text"/>
-      </section>
-      <ruetueta-video class="intro video card" />
-    </template>
-
     <main class="content">
       <Content/>
     </main>
