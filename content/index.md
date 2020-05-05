@@ -12,15 +12,16 @@ Und? Was wirst du erfinden?
 
 # Willkommen bei den dritten 23. Rüspeler Tüfteltagen!
 
-Der Chaostreff Flensburg und die KlilaIT Crew laden erneut zum Hackathon auf Norddeutschlands frickeligsten Bauernhof ein:  
-   
-Tüfteln, Hacken, Schnacken!   
-   
-Drei Tage lang könnt ihr, über den ganzen Hof verteilt, das platte Land durchdigitalisieren, an eurer Weltherrschaftsmaschine basteln, oder mit anderen ein kleines Projekt über das Wochenende starten. Wir begrüßen alle Hackerprofis und Makerkoryphäen, aber auch alle Neugierigen und Weltverbesserer der Zukunft. Keine Sorge, trau dich! Wir bieten euch Inspirationen für einfache Projekte und kleine Sessions um mal einfach etwas Neues zu probieren.   
-Gemeinsam brechen wir aus der Realität aus, hacken, essen und schlafen alle zusammen auf dem Hof. Für Camper und Zelte ist genügend Platz. Außerdem haben wir sogar eine Turnhalle zum Nächtigen. Alles inklusive der tollen Gerichte und Snacks unserer Küchencrew.   
-Wir freuen uns schon darauf dich mit einem trockenen "Moin." begrüßen zu dürfen.   
-   
-Also hol dir jetzt ein [Ticket](/tickets.html), schau dir in unserem [Fahrplan](/fahrplan.html) an was wann passiert, wirf bei Fragen doch einen Blick in die [F.A.Q.](/faq.html) und stöber auch sonst noch etwas durch unsere Seite.   
-   
-Bis dann,   
-***euer Chaostreff Flensburg & KlilaIT Crew***
+Da nun feststeht, dass es keine 3. 23.Rütüta geben wird, haben wir ein Alternativprogramm auf die Beine gestellt – natürlich online. Dazu streamen wir kleine Vorträge und Workshops am
+
+**Samstag (09.05.2020) ab 17:00 Uhr**<br/>
+**auf**<br/>
+**https://www.twitch.tv/ruetueta/**<br/>
+<br/>
+Wir freuen uns über rege Beteiligung. Du kannst einfach nur zuschauen, oder zusammen mit uns kleine Projekte hacken, zocken oder auch nur mit anderen Leuten ein bisschen schnacken. Die nötige Infrastruktur stellen wir natürlich bereit.
+
+## Links
+- Twitch-Stream: https://www.twitch.tv/ruetueta/
+- Chat: https://chat.chaostreff-flensburg.de/
+- Factorio-Server: factorio.ctfl.space
+
