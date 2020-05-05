@@ -15,11 +15,11 @@ Und? Was wirst du erfinden?
 Da nun feststeht, dass es keine 3. 23.Rütüta geben wird, haben wir ein Alternativprogramm auf die Beine gestellt – natürlich online. Dazu streamen wir kleine Vorträge und Workshops am
 **Samstag (09.05.2020) ab 17:00 Uhr**
 **auf**
-**https://www.twitch.tv/ruetueta/**
+**[https://www.twitch.tv/ruetueta/](https://www.twitch.tv/ruetueta/)**
 Wir freuen uns über rege Beteiligung. Du kannst einfach nur zuschauen, oder zusammen mit uns kleine Projekte hacken, zocken oder auch nur mit anderen Leuten ein bisschen schnacken. Die nötige Infrastruktur stellen wir natürlich bereit.
 
 ## Links
-- Twitch-Stream: https://www.twitch.tv/ruetueta/
-- Chat: https://chat.chaostreff-flensburg.de/
+- Twitch-Stream: [https://www.twitch.tv/ruetueta/](https://www.twitch.tv/ruetueta/)
+- Chat: [https://chat.chaostreff-flensburg.de/](https://chat.chaostreff-flensburg.de)
 - Factorio-Server: factorio.ctfl.space
 
