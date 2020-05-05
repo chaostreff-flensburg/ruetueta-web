@@ -1,7 +1,6 @@
 <template>
   <section class="layout">
     <ruetueta-header class="header"></ruetueta-header>
-    <ruetueta-nav class="nav"></ruetueta-nav>
 
     <template v-if="$page.frontmatter.isHomepage">
       <section class="intro text card">
