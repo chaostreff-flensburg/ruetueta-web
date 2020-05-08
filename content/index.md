@@ -18,6 +18,15 @@ Da nun feststeht, dass es keine 3. 23.Rütüta geben wird, haben wir ein Alterna
 **[https://www.twitch.tv/ruetueta/](https://www.twitch.tv/ruetueta/)**
 Wir freuen uns über rege Beteiligung. Du kannst einfach nur zuschauen, oder zusammen mit uns kleine Projekte hacken, zocken oder auch nur mit anderen Leuten ein bisschen schnacken. Die nötige Infrastruktur stellen wir natürlich bereit.
 
+## Programm
+| Uhrzeit| Bezeichnung |
+|--------|-------------|
+|17:00| Kleine Eröffnung|
+|18:00| SMD Lötworkshop |
+|20:30| Fusion360 |
+|21:30| Weitere Beiträge|
+||Openend|
+
 ## Links
 - Twitch-Stream: [https://www.twitch.tv/ruetueta/](https://www.twitch.tv/ruetueta/)
 - Chat: [https://chat.chaostreff-flensburg.de/](https://chat.chaostreff-flensburg.de)
