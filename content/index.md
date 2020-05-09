@@ -22,6 +22,7 @@ Wir freuen uns über rege Beteiligung. Du kannst einfach nur zuschauen, oder zus
 | Uhrzeit| Bezeichnung |
 |--------|-------------|
 |17:00| Kleine Eröffnung|
+|17:40| Scammo präsentiert: Das Chaos-Kombüsen Notfall Rezept für gestrandete Nerds |
 |18:00| SMD Lötworkshop |
 |20:30| Fusion360 |
 |21:30| Weitere Beiträge|
