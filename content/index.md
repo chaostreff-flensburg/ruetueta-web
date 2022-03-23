@@ -14,7 +14,7 @@ Und? Was wirst du erfinden?
 
 Immer noch Pandemie - trotzdem Bock auf coole Leute. Deswegen wird es die vierten 23. Rüspeler Tüfteltage wieder als Online Livestream geben. Live und in Farbe aus Rüspel! Wir haben ein volles Programm und zusammen mit euch wollen wir einen wunderbaren Samstagabend verbringen:
 
-**Samstag (09.04.2020) ab 17:00 Uhr**
+**Samstag (09.04.2022) ab 17:00 Uhr**
 
 **auf**
 **[https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge)**
@@ -38,6 +38,6 @@ Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets
 
 ## Linkus
 - Twitch-Stream: [https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge)
-- Non-Twitch-Stream: Wird rechtzeitig bekannt gegeben.
+- Non-Twitch-Stream: [PeerTube](https://video.cybre.town/videos/watch/4f223e5c-fdb1-435d-af42-7fca559a19ca).
 - RüTüTa Instagram: [https://www.instagram.com/ruetueta](https://www.instagram.com/ruetueta)
 - Chaostreff Flensburg Twitter: [https://twitter.com/chaos_fl](https://twitter.com/chaos_fl)
