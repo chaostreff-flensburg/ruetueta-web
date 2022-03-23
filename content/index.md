@@ -10,30 +10,34 @@ Und? Was wirst du erfinden?
 :::
 
 
-# Willkommen bei den dritten 23. Rüspeler Tüfteltagen!
+# Willkommen bei den vierten 23. Rüspeler Tüfteltagen!
 
-Da nun feststeht, dass es keine 3. 23.Rütüta geben wird, haben wir ein Alternativprogramm auf die Beine gestellt – natürlich online. Dazu streamen wir kleine Vorträge und Workshops am
-**Samstag (09.05.2020) ab 17:00 Uhr**
+Immer noch Pandemie - trotzdem Bock auf coole Leute. Deswegen wird es die vierten 23. Rüspeler Tüfteltage wieder als Online Livestream geben. Live und in Farbe aus Rüspel! Wir haben ein volles Programm und zusammen mit euch wollen wir einen wunderbaren Samstagabend verbringen:
+
+**Samstag (09.04.2020) ab 17:00 Uhr**
+
 **auf**
-**[https://www.twitch.tv/ruetueta/](https://www.twitch.tv/ruetueta/)**
-Wir freuen uns über rege Beteiligung. Du kannst einfach nur zuschauen, oder zusammen mit uns kleine Projekte hacken, zocken oder auch nur mit anderen Leuten ein bisschen schnacken. Die nötige Infrastruktur stellen wir natürlich bereit.
+**[https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge)**
+
+Wir freuen uns über rege Beteiligung. Du kannst einfach nur zuschauen oder zusammen mit uns kleine Projekte hacken, zocken oder auch nur mit anderen Leuten ein bisschen schnacken.
+
+## Badge
+
+Es wird diesmal zum allerersten Mal in der Geschichte der 23. Rüspeler Tüfteltage ein Löt-Badge geben. Mit unserem kleinen Wechselblinker-Bausatz kannst du dir die RüTüTa nach Hause holen.
+
+Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets.chaostreff-flensburg.de/ctfl/4ruetueta/](https://tickets.chaostreff-flensburg.de/ctfl/4ruetueta/)
 
 ## Programm
 | Uhrzeit| Bezeichnung |
 |--------|-------------|
-|17:00| Kleine Eröffnung|
-|17:40| Scammo präsentiert: Das Chaos-Kombüsen Notfall Rezept für gestrandete Nerds |
-|18:00| SMD Lötworkshop |
-|20:30| Fusion360 |
-|21:30| Weitere Beiträge|
+|17:00| Kleine Eröffnung |
+|17:15| Löten & Labern: Rütüta Badge |
+|19:00| Chaos Kombüsen Buffet |
+|20:30| Basteln, Proggen & Löten: DIY Controller |
 ||Openend|
 
-## Links
-- Twitch-Stream: [https://www.twitch.tv/ruetueta/](https://www.twitch.tv/ruetueta/)
-- Chat: [https://chat.chaostreff-flensburg.de/](https://chat.chaostreff-flensburg.de)
-- Jitsi:
-  - [https://meet.chaostreff-flensburg.de/](https://meet.chaostreff-flensburg.de/)
-  - [https://meet.jit.si/](https://meet.jit.si/)
-  - [https://jitsi.rocks/](https://jitsi.rocks/)
-- Factorio-Server: factorio.ctfl.space
-
+## Linkus
+- Twitch-Stream: [https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge)
+- Non-Twitch-Stream: Wird rechtzeitig bekannt gegeben.
+- RüTüTa Instagram: [https://www.instagram.com/ruetueta](https://www.instagram.com/ruetueta)
+- Chaostreff Flensburg Twitter: [https://twitter.com/chaos_fl](https://twitter.com/chaos_fl)
