@@ -10,7 +10,7 @@ Und? Was wirst du erfinden?
 :::
 
 
-# Willkommen bei den vierten 23. Rüspeler Tüfteltagen!
+# Willkommen zu den vierten 23. Rüspeler Tüfteltagen!
 
 Immer noch Pandemie - trotzdem Bock auf coole Leute. Deswegen wird es die vierten 23. Rüspeler Tüfteltage wieder als Online Livestream geben. Live und in Farbe aus Rüspel! Wir haben ein volles Programm und zusammen mit euch wollen wir einen wunderbaren Samstagabend verbringen:
 
@@ -34,7 +34,7 @@ Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets
 |17:15| Löten & Labern: Rütüta Badge |
 |19:00| Chaos Kombüsen Buffet |
 |20:30| Basteln, Proggen & Löten: DIY Controller |
-||Openend|
+||Open End|
 
 ## Linkus
 - Twitch-Stream: [https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge)
