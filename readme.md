@@ -1,6 +1,7 @@
 # ruetueta-web
 
-[![Build Status](https://drone.ctfl.space/api/badges/chaostreff-flensburg/ruetueta-web/status.svg)](https://drone.ctfl.space/chaostreff-flensburg/ruetueta-web)
+![build](https://github.com/chaostreff-flensburg/ruetueta-web/actions/workflows/build.yml/badge.svg) 
+![deploy-ghpages](https://github.com/chaostreff-flensburg/ruetueta-web/actions/workflows/deploy-ghpages.yml/badge.svg) 
 
 <!-- ## Development
 
@@ -19,9 +20,9 @@ $ npm run dev
 $ npm run build
 ```
 
-### Code Style
+## Deploy a new version
 
-This project uses [Prettier](https://prettier.io) to format code. Prettier should be run before creating a pull request. You can run it with the default settings from your editor. For more information, refer to the [official documentation](https://prettier.io).
+To deploy a new version of the site push your changes to the ```deploy``` branch via a pull request. The ```deploy-ghpages``` GitHub Action will then build and release on GH-Pages.
 
 ## Frameworks
 
