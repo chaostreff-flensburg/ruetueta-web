@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Die dritten 23. Rüspeler Tüfteltage",
-  description: "Das Frickelfestival auf dem Luettenshoff. 08.-10. Mai 2020",
+  title: "Die vierten 23. Rüspeler Tüfteltage",
+  description: "Das online Frickelfestival auf dem Luettenshoff. 09. April 2022",
   locales: {
     // Vuepress uses the default lang-attribute 'en-US'
     "/": {
