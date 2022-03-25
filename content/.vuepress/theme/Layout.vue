@@ -11,16 +11,7 @@
 </template>
 
 <script>
-import qs from 'qs';
-
-export default {
-  mounted() {
-    const { theme } = qs.parse(location.search.substr(1));
-    if (theme) {
-      document.documentElement.classList.add(`theme-${theme}`);
-    }
-  }
-}
+export default {}
 </script>
 
 <style>
