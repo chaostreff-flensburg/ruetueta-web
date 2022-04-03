@@ -36,7 +36,63 @@ Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets
 |20:30| Basteln, Proggen & Löten: DIY Controller |
 ||Open End|
 
-## Linkus
+## Einkaufsliste fürs Chaos Kombüsen Buffet
+
+### Bohnen Chili
+2 Personen
+| Wie viel | Was |
+| --: | :-- |
+| 1 | Große Zwiebel (Rot) |
+| 1-2 | Paprika (Rot) |
+| 1 Dose | Kidney Bohnen |
+| 1 Dose | Schwarze Bohnen |
+| 1 Dose | Gehackte Bohnen |
+| 500ml | Passierte Tomaten |
+| teelöffel | Salz, Pfeffer, <br/> Paprikapulver,<br/> Chilipulver/Flocken |
+
+[Rezept](https://github.com/scammo/rezepte/blob/main/suppen/bohnen-chilli.md)
+
+### Blumenkohl Wings
+2 Personen
+| Wie viel | Was |
+| --: | :-- |
+| 1 | Blumenkohl |
+| 150gramm | Mehl |
+| 200ml | Pflanzliche Milch <br/> z.B. Soja Milch |
+| 200gramm | Paprika Chips |
+| 1 Esslöffel | (Sonnenblumen) Öl |
+| teelöffel | Salz, Pfeffer, <br/> Paprikapulver |
+| 1 | BBQ Sauce |
+
+[Rezept](https://biancazapatka.com/de/barbecue-blumenkohl-wings-vegan-glutenfrei/)
+
+### Omas Eisbergsalat
+2 Personen
+| Wie viel | Was |
+| --: | :-- |
+| 1 Kopf | Eisbergsalat |
+| 1 Becher | (Vegane) Sahne |
+| 1 kleine Dose | Mandarinen |
+| 2 Tüten | Vanillezucker |
+| 1 | Große Zitrone |
+| nach bedraf | Zucker
+
+[Rezept](https://www.chefkoch.de/rezepte/1935121314955092/Eisbergsalat-mit-Mandarinen.html)
+
+### Apple Crumble Nachtisch
+2 Personen
+| Wie viel | Was |
+| --: | :-- |
+| 3 | Äpfel |
+| 100gramm | Mehl |
+| 100gramm | Zucker |
+| 100gramm | Magarine |
+| 1 päckchen | Vanille Zucker |
+
+[Rezept](https://github.com/scammo/rezepte/blob/main/nachtisch/apple-crumble.md)
+
+
+## Links
 - Twitch-Stream: [https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge)
 - Non-Twitch-Stream: [PeerTube](https://video.cybre.town/videos/watch/4f223e5c-fdb1-435d-af42-7fca559a19ca).
 - RüTüTa Instagram: [https://www.instagram.com/ruetueta](https://www.instagram.com/ruetueta)
