@@ -48,7 +48,7 @@ Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets
 | 1 Dose | Schwarze Bohnen |
 | 1 Dose | Gehackte Bohnen |
 | 500ml | Passierte Tomaten |
-| teelöffel | Salz, Pfeffer, <br/> Paprikapulver,<br/> Chilipulver/Flocken |
+| Teelöffel | Salz, Pfeffer, <br/> Paprikapulver,<br/> Chilipulver/Flocken |
 
 [Rezept](https://github.com/scammo/rezepte/blob/main/suppen/bohnen-chilli.md)
 
@@ -57,11 +57,11 @@ Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets
 | Wie viel | Was |
 | --: | :-- |
 | 1 | Blumenkohl |
-| 150gramm | Mehl |
+| 150g | Mehl |
 | 200ml | Pflanzliche Milch <br/> z.B. Soja Milch |
-| 200gramm | Paprika Chips |
+| 200g | Paprika Chips |
 | 1 Esslöffel | (Sonnenblumen) Öl |
-| teelöffel | Salz, Pfeffer, <br/> Paprikapulver |
+| Teelöffel | Salz, Pfeffer, <br/> Paprikapulver |
 | 1 | BBQ Sauce |
 
 [Rezept](https://biancazapatka.com/de/barbecue-blumenkohl-wings-vegan-glutenfrei/)
@@ -74,8 +74,8 @@ Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets
 | 1 Becher | (Vegane) Sahne |
 | 1 kleine Dose | Mandarinen |
 | 2 Tüten | Vanillezucker |
-| 1 | Große Zitrone |
-| nach bedraf | Zucker
+| 1 | große Zitrone |
+| nach Bedarf | Zucker
 
 [Rezept](https://www.chefkoch.de/rezepte/1935121314955092/Eisbergsalat-mit-Mandarinen.html)
 
@@ -84,10 +84,10 @@ Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets
 | Wie viel | Was |
 | --: | :-- |
 | 3 | Äpfel |
-| 100gramm | Mehl |
-| 100gramm | Zucker |
-| 100gramm | Magarine |
-| 1 päckchen | Vanille Zucker |
+| 100g | Mehl |
+| 100g | Zucker |
+| 100g | Magarine |
+| 1 Päckchen | Vanille Zucker |
 
 [Rezept](https://github.com/scammo/rezepte/blob/main/nachtisch/apple-crumble.md)
 
