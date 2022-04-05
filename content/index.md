@@ -46,7 +46,7 @@ Einfach bestellen und gemeinsam mit dem Stream zusammen Löten: [https://tickets
 | 1-2 | Paprika (Rot) |
 | 1 Dose | Kidney Bohnen |
 | 1 Dose | Schwarze Bohnen |
-| 1 Dose | Gehackte Bohnen |
+| 1 Dose | Gehackte Tomaten |
 | 500ml | Passierte Tomaten |
 | Teelöffel | Salz, Pfeffer, <br/> Paprikapulver,<br/> Chilipulver/Flocken |
 
